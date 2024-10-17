@@ -26,6 +26,12 @@ To get started with the Gera model, follow these simple steps:
    ```bash
 pip install -r requirements.txt
 
+### Install Dependencies:
+
+```bash
+pip install -r requirements.txt
+
+
 3. **Train the Model:**:
    ```bash
 python train.py
